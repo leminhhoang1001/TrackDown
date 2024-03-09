@@ -6,11 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
-   },
+  },
   "keywords": [],
   "author": {
-   "name" : "Prateek Chaubey",
-   "url" : "https://git.io/prateek"
+    "name": "Luc4s L3e",
+    "url": "https://github.com/leminhhoang1001"
   },
   "license": "MIT",
   "dependencies": {
