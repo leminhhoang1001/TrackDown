@@ -60,7 +60,7 @@ bot.on('message', async(msg) => {
 
 
 
-    if (msg ? .reply_to_message ? .text == "🌐 Enter Your URL") {
+    if (msg?.reply_to_message?.text == "🌐 Enter Your URL") {
         createLink(chatId, msg.text);
     }
 
